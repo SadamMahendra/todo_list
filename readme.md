@@ -20,3 +20,14 @@ ini adalah aplikasi Todo List yang menerapkan operasi CRUD (Create, Read, Update
 
 - npm install
 - npm start dev (front-end & back-end)
+
+## Demo App
+
+- Tampilan Awal tanpa item todo
+  ![Todo list Home](./statis/images/home.png)
+
+- Tampilan ketika menambahkan item todo
+  ![Screenshot To-Do List](./statis/images/create.png)
+
+- Tampilan ketika mengupdate todo
+  ![Screenshot To-Do List](./statis/images/update.png)
