@@ -23,11 +23,11 @@ ini adalah aplikasi Todo List yang menerapkan operasi CRUD (Create, Read, Update
 
 ## Demo App
 
-- Tampilan Awal tanpa item todo
+- Tampilan Awal tanpa item todo <br />
   ![Todo list Home](./statis/images/home.png)
 
-- Tampilan ketika menambahkan item todo
+- Tampilan ketika menambahkan item todo <br />
   ![Screenshot To-Do List](./statis/images/create.png)
 
-- Tampilan ketika mengupdate todo
+- Tampilan ketika mengupdate todo <br />
   ![Screenshot To-Do List](./statis/images/update.png)
